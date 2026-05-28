@@ -10,7 +10,9 @@
 | Clase | Tema | Actividades |
 |-------|------|-------------|
 | 01 | Arquitectura Web, DNS, URLs | ✅ |
-| 02 | HTTP y el ciclo de la petición | ⏳ |
+| 02 | HTTP y el ciclo de la petición | ✅ |
+| 03 | Servidores Web | ✅ |
+| 04 | HTML y CSS | ⏳ |
 
 ## Tecnologías usadas
 
