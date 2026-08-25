@@ -7,16 +7,28 @@
 
 ## Índice
 
-| Clase | Tema | Actividades |
+| Clase | Tema | Actividades |⏳
 |-------|------|-------------|
 | 01 | Arquitectura Web, DNS, URLs | ✅ |
 | 02 | HTTP y el ciclo de la petición | ✅ |
 | 03 | Servidores Web | ✅ |
-| 04 | HTML y CSS | ⏳ |
+| 05 | Responsive | ✅ |
+| 06 | Responsive y CSS | ✅ |
+| 07 | Flexbox, CSS Grid | ✅ |
+| 08 | Accesibilidad web | ✅ |
+| 09 | Responsive y accesibilidad | ✅ |
+| 10 | Responsive y accesibilidad | ✅ |
+| 11 | Introduccion a JavaScript | ✅ |
+| 12 | JavaScript | ✅ |
+| 13 | FrontEnd CRUD | ✅ |
+| 14 | Typescript | ✅ |
+| 15 | API REST | ✅ |
+| 16 | Patrones de Diseño | ✅ |
+
 
 ## Tecnologías usadas
 
-HTML · CSS · JavaScript · (se irá actualizando)
+HTML · CSS · JavaScript · API REST · Frameworks 
 
 ## Notas del curso
 
